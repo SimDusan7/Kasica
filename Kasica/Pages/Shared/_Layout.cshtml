@@ -1,0 +1,87 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Kasica.Areas.Identity.Data;
+@inject SignInManager<Korisnik> SignInManager
+@inject UserManager<Korisnik> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Ubaci u kasicu </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+
+</head>
+<body>
+    <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark">
+                <div class="container-fluid">
+                    <a class="navbar-brand" asp-area="" asp-page="/Index"> Ubaci u kasicu</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1">
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Moj Profil</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="manage" class="nav-link" asp-page="/PrihodiRashodi">Bilans Stanja</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="manage" class="nav-link" asp-page="/Budzet" title="Manage">Pregled Budžeta</a>
+                                </li>
+                            }
+                        </ul>
+                        <ul class="navbar-nav">
+                            @if (SignInManager.IsSignedIn(User))
+                            {
+                                <li class="nav-item">
+                                    <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/Index", new { area = "" })">
+                                        <button id="logout" type="submit" class="nav-link btn logout login">Odjavi se</button>
+                                    </form>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link btn login" asp-area="Identity" asp-page="/Account/Login">Prijavi se</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link btn register" asp-area="Identity" asp-page="/Account/Register">Napravi nalog</a>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+    </header>
+    <div class="container full-height">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-center text-lg-start">
+        <div class="text-center text-light p-3">
+            &copy 2024 Copyright:
+            <a class="text-light" asp-area="" asp-page="/Index">Kasica</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
+    <script src="~/temp/ersteznali.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,115 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&family=Raleway:wght@300;500;600&display=swap');
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+  scroll-behavior: smooth;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+  height: 100%;
+}
+body {
+  margin: 0;
+  height: 100%;
+}
+.navbar{
+  position: relative;
+  z-index: 15;
+  font-family: 'Poppins';
+  padding-top: 15px;
+  padding-left: 45px;
+  padding-right: 45px;
+  background: #5c52f5;
+}
+.navbar .nav-link{
+  font-weight: 300;
+}
+.navbar-brand{
+  margin-right: 35px;
+}
+.navbar .login{
+  color: #ff6276 !important;
+  padding: 7px 25px 7px 25px !important;
+  border-radius: 50px;
+  font-weight: 500;
+  border: 1px solid #ff6276;
+  transition: 0.2s;
+  margin-right: 25px;
+}
+.navbar .login:hover{
+  background: white;
+  border: 1px solid white;
+}
+.navbar .register {
+    background: white;
+    color: #3CB371 !important;
+    padding: 7px 25px 7px 25px !important;
+    border-radius: 50px;
+    font-weight: 500;
+    transition: 0.2s;
+    margin-right: 45px;
+}
+.navbar .register:hover{
+  -webkit-box-shadow: 0 0 20px 5px #FFFFFF;
+  box-shadow: 0 0 10px 1px #FFFFFF;
+}
+.full-height{
+  min-height: calc(90% - 24px);
+}
+.footer {
+    font-family: 'Poppins';
+    background: #3CB371;
+    font-weight: 300;
+}

@@ -1,0 +1,195 @@
+﻿body {
+    margin: 0;
+}
+
+.okvir {
+    padding: 40px; 
+}
+
+.left-side {
+    height: 100vh;
+    background: linear-gradient(45deg, #FF6347, #FFD700);
+    border-radius: 50%;
+    color: #333;
+    font-family: 'Courier New', monospace;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+    .left-side h1 {
+        font-weight: 800;
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+    .left-side ul {
+        list-style-type: square;
+        padding: 10px;
+        margin-top: 20px;
+    }
+
+        .left-side ul li {
+            font-weight: 500;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+            .left-side ul li:hover {
+                transform: rotate(20deg);
+                color: #FF6347;
+            }
+
+    .left-side .btn {
+        color: white;
+        font-size: 16px;
+        background: #4682B4;
+        border-radius: 10px;
+        padding: 10px 15px;
+        margin-top: 10px;
+        display: inline-block;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+        .left-side .btn:hover {
+            background: #1E90FF;
+        }
+
+    .left-side .budget-link {
+        font-weight: 600;
+        cursor: pointer;
+        transition: 0.3s;
+    }
+
+        .left-side .budget-link:hover {
+            transform: rotate(20deg);
+            color: #FF6347;
+        }
+
+.coin {
+    position: absolute;
+    top: 50%;
+    left: 20px;
+    transform: translate(0, -50%);
+    font-size: 32px;
+    color: #FFD700;
+}
+
+.circle, .circle2, .circle3 {
+    display: none;
+}
+
+.right-side {
+    background: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+    .right-side h2 {
+        font-family: 'Courier New', monospace;
+        font-weight: 700;
+        font-size: 28px;
+        margin-bottom: 15px;
+        color: #333;
+    }
+
+    .right-side label {
+        font-family: 'Courier New', monospace;
+        font-weight: 500;
+        color: #555;
+        display: block;
+        margin-bottom: 8px;
+    }
+
+    .right-side input {
+        font-family: 'Courier New', monospace;
+        font-weight: 400;
+        border: 2px solid #ccc;
+        padding: 12px;
+        margin-bottom: 15px;
+        width: 100%; 
+        box-sizing: border-box;
+    }
+
+    .right-side .btn {
+        font-family: 'Courier New', monospace;
+        font-size: 16px; 
+        background: #FF6347;
+        color: white;
+        border-radius: 5px;
+        padding: 12px 20px;
+        text-decoration: none;
+        transition: 0.3s;
+        display: block;
+        margin-top: 10px;
+    }
+
+        .right-side .btn:hover {
+            background: #DC143C;
+            color: white;
+        }
+
+.text-link {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    color: #555;
+}
+
+    .text-link a {
+        color: #FF6347;
+        text-decoration: none;
+        font-weight: 600;
+        transition: 0.3s;
+    }
+
+        .text-link a:hover {
+            color: #DC143C;
+        }
+
+@media only screen and (max-width: 996px) {
+    .left-side {
+        padding: 15px;
+    }
+
+        .left-side h1 {
+            font-size: 24px;
+        }
+
+        .left-side ul {
+            margin-top: 10px;
+        }
+
+        .left-side .btn {
+            padding: 8px 12px;
+        }
+
+    .right-side {
+        padding: 15px;
+    }
+
+        .right-side h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .right-side label {
+            margin-bottom: 5px;
+        }
+
+        .right-side input {
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        .right-side .btn {
+            padding: 10px 15px;
+        }
+}
+
+@media only screen and (max-width: 480px) {
+   
+}

@@ -1,0 +1,327 @@
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.csproj.AssemblyReference.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.AssemblyInfoInputs.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.AssemblyInfo.cs
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.csproj.CoreCompileInputs.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.RazorAssemblyInfo.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\StediiPobedi\StediiPobedi\obj\Debug\net6.0\Kasica.RazorAssemblyInfo.cs
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\appsettings.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Kasica.staticwebassets.runtime.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Kasica.exe
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Kasica.deps.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Kasica.runtimeconfig.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Kasica.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Kasica.pdb
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Aguacongas.Identity.Redis.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\EasyCaching.Core.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\EasyCaching.Redis.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Common.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Redis.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Text.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\StackExchange.Redis.StrongName.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.csproj.AssemblyReference.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.AssemblyInfoInputs.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.AssemblyInfo.cs
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.csproj.CoreCompileInputs.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.RazorAssemblyInfo.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.RazorAssemblyInfo.cs
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.Kasica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.build.Kasica.props
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kasica.props
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kasica.props
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\scopedcss\bundle\Kasica.styles.css
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.csproj.CopyComplete
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\refint\Kasica.dll
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.pdb
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\Kasica.genruntimeconfig.cache
+C:\Users\ljubo\OneDrive\Desktop\Andra 4 god\Napredne baze 2\Kasica\Kasica\obj\Debug\net6.0\ref\Kasica.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\appsettings.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Kasica.staticwebassets.runtime.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Kasica.exe
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Kasica.deps.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Kasica.runtimeconfig.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Kasica.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Kasica.pdb
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Aguacongas.Identity.Redis.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\EasyCaching.Core.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\EasyCaching.Redis.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Common.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Interfaces.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Redis.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ServiceStack.Text.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\StackExchange.Redis.StrongName.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.csproj.AssemblyReference.cache
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.AssemblyInfoInputs.cache
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.AssemblyInfo.cs
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.csproj.CoreCompileInputs.cache
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.RazorAssemblyInfo.cache
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.RazorAssemblyInfo.cs
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.Kasica.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.build.Kasica.props
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Kasica.props
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Kasica.props
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\scopedcss\bundle\Kasica.styles.css
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.csproj.CopyComplete
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\refint\Kasica.dll
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.pdb
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\Kasica.genruntimeconfig.cache
+C:\Users\Kuca\Desktop\NBP reddis\Kasica\Kasica\Kasica\obj\Debug\net6.0\ref\Kasica.dll
